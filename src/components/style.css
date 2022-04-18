@@ -1,0 +1,19 @@
+.border-success {
+  border: 2px solid green;
+}
+.color-success {
+  color: green;
+}
+.border-error {
+  border: 2px solid red;
+}
+.color-error {
+  color: red;
+}
+
+.border-default {
+  border: 2px solid black;
+}
+.color-default {
+  color: black;
+}
