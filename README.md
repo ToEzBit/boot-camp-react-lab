@@ -1,3 +1,1 @@
-BootCamp Lab
-
-1.create react app
+<img src="./img.png">
